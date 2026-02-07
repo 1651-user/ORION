@@ -1,5 +1,5 @@
 # ORION
-# ORION - River Label Placement Algorithm
+# River Label Placement Algorithm
 
 An intelligent algorithm for automatically placing text labels inside river polygon geometries, ensuring optimal positioning, rotation, and readability.
 
